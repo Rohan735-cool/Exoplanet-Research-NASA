@@ -1,1 +1,2 @@
 This folder contains raw photos of the research process, documenting the iteration of data visualizations from initial histograms to final density estimates.
+These four photos show the main steps of my work, but they are only a small part of the whole process. I tried many other versions on different plots with different settings which I didn't capture on my device. I'm also not able find all of the images I had captured initially.
