@@ -7,11 +7,6 @@ This project investigates the Fulton Gap (the "Radius Gap")—a significant dip 
 
 Key Features
 
-Data Source:
-Data collected from [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/), 
-operated by the California Institute of Technology, under contract with the 
-National Aeronautics and Space Administration under the Exoplanet Exploration Program.
-
 Data Cleaning: Filtering missing values and outliers from NASA's huge dataset.
 
 KDE Visualization: Using Kernel Density Estimation to identify the bimodal distribution (having two peaks) of small planets.
@@ -30,3 +25,9 @@ How to view the work:
 The primary analysis scripts are found in main.py and main_2.py.
 
 Process Logs: See the /Process_logs folder for early drafts, handwritten notes, and development stages of this project.
+
+Acknowledgenment
+
+This research has made use of the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/), 
+which is operated by the California Institute of Technology, under contract with the 
+National Aeronautics and Space Administration under the Exoplanet Exploration Program.
