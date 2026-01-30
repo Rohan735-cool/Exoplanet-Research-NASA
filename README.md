@@ -2,7 +2,7 @@
 
 Statistical Analysis of the Exoplanet Radius Gap and Observational Bias using Python.
 
-![AQMk5HD2vtsbZN1G-DNQsjMZfG5RbZvTBUt2YhNXuRbn4J0AfkkDVhsM4zyREAyQlj1zabUSKWfo_O3R3nD8gkgVhB5JJ-4VgKS2uEMKAgPPQkTCkgiCBB46R_J-dscdLQzhRs3i6QZJ5uyuRXV64Q2k0vzpTQ](https://github.com/user-attachments/assets/79d7dd20-1329-4a0d-ae49-3a6deec655d6)
+
 
 
 
