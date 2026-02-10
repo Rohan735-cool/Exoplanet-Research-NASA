@@ -19,9 +19,11 @@ Logarithmic Scaling: Applying log scales to compare planetary radius against hos
 
 Independent Learning & Tools
 
-Language: Python
+## Language
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Libraries: Pandas (Data manipulation), Matplotlib & Seaborn (Scientific visualization), NumPy.
+## Tools/Libraries
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 Methods: Self-taught through online free sources (Microsoft/DataCamp), then moved to advanced learning through YT lectures from "Corey Schafer" and "Kimberly Fessel"
 
