@@ -12,7 +12,17 @@ This was a open-ended data analysis. Performed to observe notable patterns in th
 ## Procedure
 
 ### Step 1
-To obtain the csv file containing Exoplanet data, visit the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/). 
+To obtain the csv file containing Exoplanet data, visit the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).
+Click on "Data" and choose any of the dataset.
+Select the Columns you want and download them. (For better expirence; download them as ".csv" file)
+
+### Step 2
+Create a Folder and save your CSV File.
+You can perform this project on VS Code or Excel, but I would suggest using the "Jupiter Notebook" for your easy going.
+First install the "[Anaconda Prompt](https://www.anaconda.com/docs/getting-started/main)." You can easily access the Jupiter Notebook through Anaconda.
+
+### Step 3
+
 
 Methods: Self-taught through online free sources (Microsoft/DataCamp), then moved to advanced learning through YT lectures from "Corey Schafer" and "Kimberly Fessel"
 
