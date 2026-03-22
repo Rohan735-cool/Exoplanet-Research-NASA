@@ -22,12 +22,21 @@ You can perform this project on VS Code or Excel, but I would suggest using the 
 First install the "[Anaconda Prompt](https://www.anaconda.com/docs/getting-started/main)." You can easily access the Jupiter Notebook through Anaconda.
 
 ### Step 3
+After installation, access Jupyter Notebook via Anaconda. You can open the anaconda prompt and comment "cd C:\Project_folder(Assuming your csv file is inside "Project_folder" in "C")" and press 'Enter.'
+Then comment "jupyter notebook" and again press 'Enter.'
 
+### Step 4
+You can watch some Jupyter Notebook Tutorials from YouTube, that's what I did as well.
+Anyway, now it time to finally begin the 'Data Analysis.'
+First of all, we need to import all the important libraries that we're gonna need for this project.
+Open a code cell and comment:-
+'import pandas as pd
+import numpy as np
+import matplotlib as plt
+import seaborne as sn'
 
-Methods: Self-taught through online free sources (Microsoft/DataCamp), then moved to advanced learning through YT lectures from "Corey Schafer" and "Kimberly Fessel"
-
-How to view the work:
-The primary analysis scripts are found in main.py and main_2.py.
+### Step 5
+Now that we have important important libraries, it's time to
 
 Process Logs: See the /Process_logs folder for early drafts, handwritten notes, and development stages of this project.
 
