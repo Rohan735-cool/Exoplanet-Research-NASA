@@ -36,7 +36,11 @@ import matplotlib as plt
 import seaborne as sn'
 
 ### Step 5
-Now that we have important important libraries, it's time to
+Now that we have important important libraries, it's time to show the notebook our csv file.
+Bash:- ' "A Variable" = "File_Name" .' [This Variable is important, so name it carefully.]
+
+### Step 6
+It's finally time to mine the data. First, you need to find the column header, because those are usally between 50-100 (in NASA Files).
 
 Process Logs: See the /Process_logs folder for early drafts, handwritten notes, and development stages of this project.
 
