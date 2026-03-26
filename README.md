@@ -48,3 +48,5 @@ Acknowledgenment:
 This research has made use of the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/), 
 which is operated by the California Institute of Technology, under contract with the 
 National Aeronautics and Space Administration under the Exoplanet Exploration Program.
+
+The codes and reports are in the "Exoplanet_Analysis_1.ipynb" file, scroll up click on it to view the Project.
