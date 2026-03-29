@@ -35,9 +35,9 @@ jupyter notebook Exoplanet_Analysis_1.ipynb
 
 | Plot | Description | Key Insight |
 |------|-------------|-------------|
-| ![KDE](KDE.jpg) | Radius density (KDE, bw=0.2) | Dip at 1.5–2.0 R⊕ (red zone) |
-| ![Scatter](Scatter.jpg) | Log radius vs stellar mass | Transit bias for R<4 R⊕ |
-| ![Orbital](Orbitals.png) | Log orbital period histogram | Hot Jupiters cluster <10 days |
+| ![KDE](Plots/KDE.jpg) | Radius density (KDE, bw=0.2) | Dip at 1.5–2.0 R⊕ (red zone) |
+| ![Scatter](Plots/Scatter.jpg) | Log radius vs stellar mass | Transit bias for R<4 R⊕ |
+| ![Orbital](Plots/Orbitals.png) | Log orbital period histogram | Hot Jupiters cluster <10 days |
 
 ## 🔭 Live Demo
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rohan735-cool/Exoplanet-Research-NASA/main)
