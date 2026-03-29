@@ -46,6 +46,24 @@ jupyter notebook Exoplanet_Analysis_1.ipynb
 
 **Data**: [NASA PSCompPars (84 header rows)](https://exoplanetarchive.ipac.caltech.edu/)
 
+## Key Code
+
+## 💻 Core Analysis Code
+
+**Load NASA Data** (skip 84 headers):
+```python
+df = pd.read_csv('PSCompPars.csv', skiprows=84)
+df.rename(columns={'pl_rade':'radius_earth'}, inplace=True)
+```
+
+**Reveal Fulton Gap**:
+```python
+sns.kdeplot(df['radius_earth'], bw_adjust=0.2)
+plt.axvspan(1.5, 2.0, color='red', alpha=0.3)
+```
+
+Full notebook:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rohan735-cool/Exoplanet-Research-NASA/main?urlpath=%2Fdoc%2Ftree%2FExoplanet_Analysis_1.ipynb)
+
 ## 📊 Results
 
 | Plot | Description | Key Insight |
