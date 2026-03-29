@@ -51,11 +51,6 @@ The Fulton Gap suggests most sub-Neptunes lose atmospheres near their stars, lea
 2. Issues welcome: data updates, ML predictions, 3D orbits
 3. Star if this sparks your exoplanet curiosity! ⭐
 
----
-
-<sup>Made with ❤️ for the exoplanet community. Data: [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)</sup>
-
----
 
 <div align="center">
 
