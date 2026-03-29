@@ -40,7 +40,7 @@ jupyter notebook Exoplanet_Analysis_1.ipynb
 | ![Scatter](Plots/Scatter.jpg) | Log radius vs stellar mass | Transit bias for R<4 R⊕ |
 
 ## 🔭 Live Demo
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rohan735-cool/Exoplanet-Research-NASA/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rohan735-cool/Exoplanet-Research-NASA/main?urlpath=%2Fdoc%2Ftree%2FExoplanet_Analysis_1.ipynb)
 *Click to run analysis in-browser (no install needed!)*
 
 ## 🌟 Why This Matters
