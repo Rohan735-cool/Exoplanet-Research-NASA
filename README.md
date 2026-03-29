@@ -10,6 +10,32 @@
 [![Forks](https://img.shields.io/github/forks/Rohan735-cool/Exoplanet-Research-NASA)](https://github.com/Rohan735-cool/Exoplanet-Research-NASA)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB)](https://python.org)
 
+
+# The Exoplanet Census: Observational Bias and the Radius Gap
+
+> An independent data analysis project exploring the bimodal distribution of exoplanet radii using the NASA Exoplanet Archive.
+
+---
+
+## Overview
+
+This project investigates the **Fulton Gap** — a statistically significant dip in the frequency of planets with radii between **1.5 and 2.0 Earth radii** — using a dataset of approximately 6,000 confirmed exoplanets. The analysis explores how photoevaporation drives atmospheric loss in sub-Neptune-sized planets, causing them to shrink into bare rocky cores (super-Earths), and examines how observational bias across different discovery methods shapes our understanding of planetary populations.
+
+**Key Finding:** The bimodal radius distribution is consistent with photoevaporation theory — smaller planets near their host stars cannot retain their hydrogen/helium envelopes under intense stellar XUV radiation, producing the observable gap in the size distribution.
+
+---
+
+## Language & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+---
+
 ## 📋 Contents
 - [🎯 Key Findings](#-key-findings)
 - [🛠️ Quick Start](#️-quick-start)
